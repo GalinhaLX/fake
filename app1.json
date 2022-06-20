@@ -2,10 +2,10 @@
 	"titre": "titre de mon app 1sdsdsqd",
 	"item": [
 		{
-			"titre": "titre de mon app 1"
+			"titre": "bar"
 		},
 		{
-			"titre": "bbbb"
+			"titre": "foo"
 		}
 	]
 }
